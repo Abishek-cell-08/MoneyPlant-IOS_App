@@ -31,7 +31,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/moneyplant.git
+git clone https://github.com/Abishek-cell-08/MoneyPlant-IOS_App.git
 
 Open the project in Xcode:
 
